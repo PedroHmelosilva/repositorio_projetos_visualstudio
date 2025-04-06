@@ -1,0 +1,56 @@
+C:\Users\hmelo\OneDrive\Arquivos (Imagens, Livros, Músicas, Documentos)\Documentos\repositorio_projetos_visualstudio\proj_quiz\proj_quiz\bin\Debug\proj_quiz.exe.config
+C:\Users\hmelo\OneDrive\Arquivos (Imagens, Livros, Músicas, Documentos)\Documentos\repositorio_projetos_visualstudio\proj_quiz\proj_quiz\bin\Debug\proj_quiz.exe
+C:\Users\hmelo\OneDrive\Arquivos (Imagens, Livros, Músicas, Documentos)\Documentos\repositorio_projetos_visualstudio\proj_quiz\proj_quiz\bin\Debug\proj_quiz.pdb
+C:\Users\hmelo\OneDrive\Arquivos (Imagens, Livros, Músicas, Documentos)\Documentos\repositorio_projetos_visualstudio\proj_quiz\proj_quiz\obj\Debug\proj_quiz.csproj.AssemblyReference.cache
+C:\Users\hmelo\OneDrive\Arquivos (Imagens, Livros, Músicas, Documentos)\Documentos\repositorio_projetos_visualstudio\proj_quiz\proj_quiz\obj\Debug\proj_quiz.Form1.resources
+C:\Users\hmelo\OneDrive\Arquivos (Imagens, Livros, Músicas, Documentos)\Documentos\repositorio_projetos_visualstudio\proj_quiz\proj_quiz\obj\Debug\proj_quiz.Properties.Resources.resources
+C:\Users\hmelo\OneDrive\Arquivos (Imagens, Livros, Músicas, Documentos)\Documentos\repositorio_projetos_visualstudio\proj_quiz\proj_quiz\obj\Debug\proj_quiz.csproj.GenerateResource.cache
+C:\Users\hmelo\OneDrive\Arquivos (Imagens, Livros, Músicas, Documentos)\Documentos\repositorio_projetos_visualstudio\proj_quiz\proj_quiz\obj\Debug\proj_quiz.csproj.CoreCompileInputs.cache
+C:\Users\hmelo\OneDrive\Arquivos (Imagens, Livros, Músicas, Documentos)\Documentos\repositorio_projetos_visualstudio\proj_quiz\proj_quiz\obj\Debug\proj_quiz.exe
+C:\Users\hmelo\OneDrive\Arquivos (Imagens, Livros, Músicas, Documentos)\Documentos\repositorio_projetos_visualstudio\proj_quiz\proj_quiz\obj\Debug\proj_quiz.pdb
+C:\Users\hmelo\OneDrive\Arquivos (Imagens, Livros, Músicas, Documentos)\Documentos\repositorio_projetos_visualstudio\proj_quiz\proj_quiz\obj\Debug\proj_quiz.infoQuiz.resources
+C:\Users\hmelo\OneDrive\Arquivos (Imagens, Livros, Músicas, Documentos)\Documentos\repositorio_projetos_visualstudio\proj_quiz\proj_quiz\obj\Debug\proj_quiz.frmConcluiu.resources
+C:\Users\hmelo\OneDrive\Arquivos (Imagens, Livros, Músicas, Documentos)\Documentos\repositorio_projetos_visualstudio\proj_quiz\proj_quiz\obj\Debug\proj_quiz.frmQ1.resources
+C:\Users\hmelo\OneDrive\Arquivos (Imagens, Livros, Músicas, Documentos)\Documentos\repositorio_projetos_visualstudio\proj_quiz\proj_quiz\obj\Debug\proj_quiz.frmQ10.resources
+C:\Users\hmelo\OneDrive\Arquivos (Imagens, Livros, Músicas, Documentos)\Documentos\repositorio_projetos_visualstudio\proj_quiz\proj_quiz\obj\Debug\proj_quiz.frmQ11.resources
+C:\Users\hmelo\OneDrive\Arquivos (Imagens, Livros, Músicas, Documentos)\Documentos\repositorio_projetos_visualstudio\proj_quiz\proj_quiz\obj\Debug\proj_quiz.frmQ12.resources
+C:\Users\hmelo\OneDrive\Arquivos (Imagens, Livros, Músicas, Documentos)\Documentos\repositorio_projetos_visualstudio\proj_quiz\proj_quiz\obj\Debug\proj_quiz.frmQ13.resources
+C:\Users\hmelo\OneDrive\Arquivos (Imagens, Livros, Músicas, Documentos)\Documentos\repositorio_projetos_visualstudio\proj_quiz\proj_quiz\obj\Debug\proj_quiz.frmQ14.resources
+C:\Users\hmelo\OneDrive\Arquivos (Imagens, Livros, Músicas, Documentos)\Documentos\repositorio_projetos_visualstudio\proj_quiz\proj_quiz\obj\Debug\proj_quiz.frmQ15.resources
+C:\Users\hmelo\OneDrive\Arquivos (Imagens, Livros, Músicas, Documentos)\Documentos\repositorio_projetos_visualstudio\proj_quiz\proj_quiz\obj\Debug\proj_quiz.frmQ2.resources
+C:\Users\hmelo\OneDrive\Arquivos (Imagens, Livros, Músicas, Documentos)\Documentos\repositorio_projetos_visualstudio\proj_quiz\proj_quiz\obj\Debug\proj_quiz.frmQ3.resources
+C:\Users\hmelo\OneDrive\Arquivos (Imagens, Livros, Músicas, Documentos)\Documentos\repositorio_projetos_visualstudio\proj_quiz\proj_quiz\obj\Debug\proj_quiz.frmQ4.resources
+C:\Users\hmelo\OneDrive\Arquivos (Imagens, Livros, Músicas, Documentos)\Documentos\repositorio_projetos_visualstudio\proj_quiz\proj_quiz\obj\Debug\proj_quiz.frmQ5.resources
+C:\Users\hmelo\OneDrive\Arquivos (Imagens, Livros, Músicas, Documentos)\Documentos\repositorio_projetos_visualstudio\proj_quiz\proj_quiz\obj\Debug\proj_quiz.frmQ6.resources
+C:\Users\hmelo\OneDrive\Arquivos (Imagens, Livros, Músicas, Documentos)\Documentos\repositorio_projetos_visualstudio\proj_quiz\proj_quiz\obj\Debug\proj_quiz.frmQ7.resources
+C:\Users\hmelo\OneDrive\Arquivos (Imagens, Livros, Músicas, Documentos)\Documentos\repositorio_projetos_visualstudio\proj_quiz\proj_quiz\obj\Debug\proj_quiz.frmQ8.resources
+C:\Users\hmelo\OneDrive\Arquivos (Imagens, Livros, Músicas, Documentos)\Documentos\repositorio_projetos_visualstudio\proj_quiz\proj_quiz\obj\Debug\proj_quiz.frmQ9.resources
+C:\Users\hmelo\OneDrive\Arquivos (Imagens, Livros, Músicas, Documentos)\Documentos\repositorio_projetos_visualstudio\proj_quiz\proj_quiz\obj\Debug\proj_quiz.frmSobre.resources
+E:\2. TRABALHOS_2C\desenvolvimento_de_sistemas\trabalhos_visual_studio\repositorio_projetos_visualstudio\proj_quiz\proj_quiz\bin\Debug\proj_quiz.exe.config
+E:\2. TRABALHOS_2C\desenvolvimento_de_sistemas\trabalhos_visual_studio\repositorio_projetos_visualstudio\proj_quiz\proj_quiz\bin\Debug\proj_quiz.exe
+E:\2. TRABALHOS_2C\desenvolvimento_de_sistemas\trabalhos_visual_studio\repositorio_projetos_visualstudio\proj_quiz\proj_quiz\bin\Debug\proj_quiz.pdb
+E:\2. TRABALHOS_2C\desenvolvimento_de_sistemas\trabalhos_visual_studio\repositorio_projetos_visualstudio\proj_quiz\proj_quiz\obj\Debug\proj_quiz.csproj.AssemblyReference.cache
+E:\2. TRABALHOS_2C\desenvolvimento_de_sistemas\trabalhos_visual_studio\repositorio_projetos_visualstudio\proj_quiz\proj_quiz\obj\Debug\proj_quiz.Form1.resources
+E:\2. TRABALHOS_2C\desenvolvimento_de_sistemas\trabalhos_visual_studio\repositorio_projetos_visualstudio\proj_quiz\proj_quiz\obj\Debug\proj_quiz.frmConcluiu.resources
+E:\2. TRABALHOS_2C\desenvolvimento_de_sistemas\trabalhos_visual_studio\repositorio_projetos_visualstudio\proj_quiz\proj_quiz\obj\Debug\proj_quiz.frmQ1.resources
+E:\2. TRABALHOS_2C\desenvolvimento_de_sistemas\trabalhos_visual_studio\repositorio_projetos_visualstudio\proj_quiz\proj_quiz\obj\Debug\proj_quiz.frmQ10.resources
+E:\2. TRABALHOS_2C\desenvolvimento_de_sistemas\trabalhos_visual_studio\repositorio_projetos_visualstudio\proj_quiz\proj_quiz\obj\Debug\proj_quiz.frmQ11.resources
+E:\2. TRABALHOS_2C\desenvolvimento_de_sistemas\trabalhos_visual_studio\repositorio_projetos_visualstudio\proj_quiz\proj_quiz\obj\Debug\proj_quiz.frmQ12.resources
+E:\2. TRABALHOS_2C\desenvolvimento_de_sistemas\trabalhos_visual_studio\repositorio_projetos_visualstudio\proj_quiz\proj_quiz\obj\Debug\proj_quiz.frmQ13.resources
+E:\2. TRABALHOS_2C\desenvolvimento_de_sistemas\trabalhos_visual_studio\repositorio_projetos_visualstudio\proj_quiz\proj_quiz\obj\Debug\proj_quiz.frmQ14.resources
+E:\2. TRABALHOS_2C\desenvolvimento_de_sistemas\trabalhos_visual_studio\repositorio_projetos_visualstudio\proj_quiz\proj_quiz\obj\Debug\proj_quiz.frmQ15.resources
+E:\2. TRABALHOS_2C\desenvolvimento_de_sistemas\trabalhos_visual_studio\repositorio_projetos_visualstudio\proj_quiz\proj_quiz\obj\Debug\proj_quiz.frmQ2.resources
+E:\2. TRABALHOS_2C\desenvolvimento_de_sistemas\trabalhos_visual_studio\repositorio_projetos_visualstudio\proj_quiz\proj_quiz\obj\Debug\proj_quiz.frmQ3.resources
+E:\2. TRABALHOS_2C\desenvolvimento_de_sistemas\trabalhos_visual_studio\repositorio_projetos_visualstudio\proj_quiz\proj_quiz\obj\Debug\proj_quiz.frmQ4.resources
+E:\2. TRABALHOS_2C\desenvolvimento_de_sistemas\trabalhos_visual_studio\repositorio_projetos_visualstudio\proj_quiz\proj_quiz\obj\Debug\proj_quiz.frmQ5.resources
+E:\2. TRABALHOS_2C\desenvolvimento_de_sistemas\trabalhos_visual_studio\repositorio_projetos_visualstudio\proj_quiz\proj_quiz\obj\Debug\proj_quiz.frmQ6.resources
+E:\2. TRABALHOS_2C\desenvolvimento_de_sistemas\trabalhos_visual_studio\repositorio_projetos_visualstudio\proj_quiz\proj_quiz\obj\Debug\proj_quiz.frmQ7.resources
+E:\2. TRABALHOS_2C\desenvolvimento_de_sistemas\trabalhos_visual_studio\repositorio_projetos_visualstudio\proj_quiz\proj_quiz\obj\Debug\proj_quiz.frmQ8.resources
+E:\2. TRABALHOS_2C\desenvolvimento_de_sistemas\trabalhos_visual_studio\repositorio_projetos_visualstudio\proj_quiz\proj_quiz\obj\Debug\proj_quiz.frmQ9.resources
+E:\2. TRABALHOS_2C\desenvolvimento_de_sistemas\trabalhos_visual_studio\repositorio_projetos_visualstudio\proj_quiz\proj_quiz\obj\Debug\proj_quiz.frmSobre.resources
+E:\2. TRABALHOS_2C\desenvolvimento_de_sistemas\trabalhos_visual_studio\repositorio_projetos_visualstudio\proj_quiz\proj_quiz\obj\Debug\proj_quiz.infoQuiz.resources
+E:\2. TRABALHOS_2C\desenvolvimento_de_sistemas\trabalhos_visual_studio\repositorio_projetos_visualstudio\proj_quiz\proj_quiz\obj\Debug\proj_quiz.Properties.Resources.resources
+E:\2. TRABALHOS_2C\desenvolvimento_de_sistemas\trabalhos_visual_studio\repositorio_projetos_visualstudio\proj_quiz\proj_quiz\obj\Debug\proj_quiz.csproj.GenerateResource.cache
+E:\2. TRABALHOS_2C\desenvolvimento_de_sistemas\trabalhos_visual_studio\repositorio_projetos_visualstudio\proj_quiz\proj_quiz\obj\Debug\proj_quiz.csproj.CoreCompileInputs.cache
+E:\2. TRABALHOS_2C\desenvolvimento_de_sistemas\trabalhos_visual_studio\repositorio_projetos_visualstudio\proj_quiz\proj_quiz\obj\Debug\proj_quiz.exe
+E:\2. TRABALHOS_2C\desenvolvimento_de_sistemas\trabalhos_visual_studio\repositorio_projetos_visualstudio\proj_quiz\proj_quiz\obj\Debug\proj_quiz.pdb

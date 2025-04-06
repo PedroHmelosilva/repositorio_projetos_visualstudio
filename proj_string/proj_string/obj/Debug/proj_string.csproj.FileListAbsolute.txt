@@ -1,0 +1,14 @@
+C:\Users\hmelo\OneDrive\Arquivos (Imagens, Livros, Músicas, Documentos)\Documentos\repositorio_projetos_visualstudio\proj_string\proj_string\bin\Debug\proj_string.exe.config
+C:\Users\hmelo\OneDrive\Arquivos (Imagens, Livros, Músicas, Documentos)\Documentos\repositorio_projetos_visualstudio\proj_string\proj_string\bin\Debug\proj_string.exe
+C:\Users\hmelo\OneDrive\Arquivos (Imagens, Livros, Músicas, Documentos)\Documentos\repositorio_projetos_visualstudio\proj_string\proj_string\bin\Debug\proj_string.pdb
+C:\Users\hmelo\OneDrive\Arquivos (Imagens, Livros, Músicas, Documentos)\Documentos\repositorio_projetos_visualstudio\proj_string\proj_string\obj\Debug\proj_string.csproj.AssemblyReference.cache
+C:\Users\hmelo\OneDrive\Arquivos (Imagens, Livros, Músicas, Documentos)\Documentos\repositorio_projetos_visualstudio\proj_string\proj_string\obj\Debug\proj_string.Form1.resources
+C:\Users\hmelo\OneDrive\Arquivos (Imagens, Livros, Músicas, Documentos)\Documentos\repositorio_projetos_visualstudio\proj_string\proj_string\obj\Debug\proj_string.Properties.Resources.resources
+C:\Users\hmelo\OneDrive\Arquivos (Imagens, Livros, Músicas, Documentos)\Documentos\repositorio_projetos_visualstudio\proj_string\proj_string\obj\Debug\proj_string.csproj.GenerateResource.cache
+C:\Users\hmelo\OneDrive\Arquivos (Imagens, Livros, Músicas, Documentos)\Documentos\repositorio_projetos_visualstudio\proj_string\proj_string\obj\Debug\proj_string.csproj.CoreCompileInputs.cache
+C:\Users\hmelo\OneDrive\Arquivos (Imagens, Livros, Músicas, Documentos)\Documentos\repositorio_projetos_visualstudio\proj_string\proj_string\obj\Debug\proj_string.exe
+C:\Users\hmelo\OneDrive\Arquivos (Imagens, Livros, Músicas, Documentos)\Documentos\repositorio_projetos_visualstudio\proj_string\proj_string\obj\Debug\proj_string.pdb
+C:\Users\hmelo\OneDrive\Arquivos (Imagens, Livros, Músicas, Documentos)\Documentos\repositorio_projetos_visualstudio\proj_string\proj_string\obj\Debug\proj_string.verificador_email.resources
+C:\Users\hmelo\OneDrive\Arquivos (Imagens, Livros, Músicas, Documentos)\Documentos\repositorio_projetos_visualstudio\proj_string\proj_string\obj\Debug\proj_string.exibir_vertical.resources
+C:\Users\hmelo\OneDrive\Arquivos (Imagens, Livros, Músicas, Documentos)\Documentos\repositorio_projetos_visualstudio\proj_string\proj_string\obj\Debug\proj_string.mover_textos.resources
+C:\Users\hmelo\OneDrive\Arquivos (Imagens, Livros, Músicas, Documentos)\Documentos\repositorio_projetos_visualstudio\proj_string\proj_string\obj\Debug\proj_string.stringproj.resources

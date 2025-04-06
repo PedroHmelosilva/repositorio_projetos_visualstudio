@@ -1,0 +1,10 @@
+C:\Users\hmelo\OneDrive\Arquivos (Imagens, Livros, Músicas, Documentos)\Documentos\repositorio_projetos_visualstudio\projeto_estacoes_do_ano\projeto_estacoes_do_ano\bin\Debug\projeto_estacoes_do_ano.exe.config
+C:\Users\hmelo\OneDrive\Arquivos (Imagens, Livros, Músicas, Documentos)\Documentos\repositorio_projetos_visualstudio\projeto_estacoes_do_ano\projeto_estacoes_do_ano\bin\Debug\projeto_estacoes_do_ano.exe
+C:\Users\hmelo\OneDrive\Arquivos (Imagens, Livros, Músicas, Documentos)\Documentos\repositorio_projetos_visualstudio\projeto_estacoes_do_ano\projeto_estacoes_do_ano\bin\Debug\projeto_estacoes_do_ano.pdb
+C:\Users\hmelo\OneDrive\Arquivos (Imagens, Livros, Músicas, Documentos)\Documentos\repositorio_projetos_visualstudio\projeto_estacoes_do_ano\projeto_estacoes_do_ano\obj\Debug\projeto_estacoes_do_ano.csproj.AssemblyReference.cache
+C:\Users\hmelo\OneDrive\Arquivos (Imagens, Livros, Músicas, Documentos)\Documentos\repositorio_projetos_visualstudio\projeto_estacoes_do_ano\projeto_estacoes_do_ano\obj\Debug\projeto_estacoes_do_ano.Form1.resources
+C:\Users\hmelo\OneDrive\Arquivos (Imagens, Livros, Músicas, Documentos)\Documentos\repositorio_projetos_visualstudio\projeto_estacoes_do_ano\projeto_estacoes_do_ano\obj\Debug\projeto_estacoes_do_ano.Properties.Resources.resources
+C:\Users\hmelo\OneDrive\Arquivos (Imagens, Livros, Músicas, Documentos)\Documentos\repositorio_projetos_visualstudio\projeto_estacoes_do_ano\projeto_estacoes_do_ano\obj\Debug\projeto_estacoes_do_ano.csproj.GenerateResource.cache
+C:\Users\hmelo\OneDrive\Arquivos (Imagens, Livros, Músicas, Documentos)\Documentos\repositorio_projetos_visualstudio\projeto_estacoes_do_ano\projeto_estacoes_do_ano\obj\Debug\projeto_estacoes_do_ano.csproj.CoreCompileInputs.cache
+C:\Users\hmelo\OneDrive\Arquivos (Imagens, Livros, Músicas, Documentos)\Documentos\repositorio_projetos_visualstudio\projeto_estacoes_do_ano\projeto_estacoes_do_ano\obj\Debug\projeto_estacoes_do_ano.exe
+C:\Users\hmelo\OneDrive\Arquivos (Imagens, Livros, Músicas, Documentos)\Documentos\repositorio_projetos_visualstudio\projeto_estacoes_do_ano\projeto_estacoes_do_ano\obj\Debug\projeto_estacoes_do_ano.pdb

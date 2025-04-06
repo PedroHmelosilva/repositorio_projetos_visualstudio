@@ -1,0 +1,10 @@
+C:\Users\hmelo\OneDrive\Arquivos (Imagens, Livros, Músicas, Documentos)\Documentos\repositorio_projetos_visualstudio\proj04_delta_raiz\proj04_delta_raiz\bin\Debug\proj04_delta_raiz.exe.config
+C:\Users\hmelo\OneDrive\Arquivos (Imagens, Livros, Músicas, Documentos)\Documentos\repositorio_projetos_visualstudio\proj04_delta_raiz\proj04_delta_raiz\bin\Debug\proj04_delta_raiz.exe
+C:\Users\hmelo\OneDrive\Arquivos (Imagens, Livros, Músicas, Documentos)\Documentos\repositorio_projetos_visualstudio\proj04_delta_raiz\proj04_delta_raiz\bin\Debug\proj04_delta_raiz.pdb
+C:\Users\hmelo\OneDrive\Arquivos (Imagens, Livros, Músicas, Documentos)\Documentos\repositorio_projetos_visualstudio\proj04_delta_raiz\proj04_delta_raiz\obj\Debug\proj04_delta_raiz.csproj.AssemblyReference.cache
+C:\Users\hmelo\OneDrive\Arquivos (Imagens, Livros, Músicas, Documentos)\Documentos\repositorio_projetos_visualstudio\proj04_delta_raiz\proj04_delta_raiz\obj\Debug\proj04_delta_raiz.Form1.resources
+C:\Users\hmelo\OneDrive\Arquivos (Imagens, Livros, Músicas, Documentos)\Documentos\repositorio_projetos_visualstudio\proj04_delta_raiz\proj04_delta_raiz\obj\Debug\proj04_delta_raiz.Properties.Resources.resources
+C:\Users\hmelo\OneDrive\Arquivos (Imagens, Livros, Músicas, Documentos)\Documentos\repositorio_projetos_visualstudio\proj04_delta_raiz\proj04_delta_raiz\obj\Debug\proj04_delta_raiz.csproj.GenerateResource.cache
+C:\Users\hmelo\OneDrive\Arquivos (Imagens, Livros, Músicas, Documentos)\Documentos\repositorio_projetos_visualstudio\proj04_delta_raiz\proj04_delta_raiz\obj\Debug\proj04_delta_raiz.csproj.CoreCompileInputs.cache
+C:\Users\hmelo\OneDrive\Arquivos (Imagens, Livros, Músicas, Documentos)\Documentos\repositorio_projetos_visualstudio\proj04_delta_raiz\proj04_delta_raiz\obj\Debug\proj04_delta_raiz.exe
+C:\Users\hmelo\OneDrive\Arquivos (Imagens, Livros, Músicas, Documentos)\Documentos\repositorio_projetos_visualstudio\proj04_delta_raiz\proj04_delta_raiz\obj\Debug\proj04_delta_raiz.pdb

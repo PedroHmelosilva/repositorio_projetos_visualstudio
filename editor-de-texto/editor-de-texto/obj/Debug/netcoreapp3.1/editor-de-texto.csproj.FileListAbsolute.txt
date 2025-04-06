@@ -1,0 +1,32 @@
+D:\DS\editor-de-texto\editor-de-texto\bin\Debug\netcoreapp3.1\editor-de-texto.exe
+D:\DS\editor-de-texto\editor-de-texto\bin\Debug\netcoreapp3.1\editor-de-texto.deps.json
+D:\DS\editor-de-texto\editor-de-texto\bin\Debug\netcoreapp3.1\editor-de-texto.runtimeconfig.json
+D:\DS\editor-de-texto\editor-de-texto\bin\Debug\netcoreapp3.1\editor-de-texto.runtimeconfig.dev.json
+D:\DS\editor-de-texto\editor-de-texto\bin\Debug\netcoreapp3.1\editor-de-texto.dll
+D:\DS\editor-de-texto\editor-de-texto\bin\Debug\netcoreapp3.1\editor-de-texto.pdb
+D:\DS\editor-de-texto\editor-de-texto\obj\Debug\netcoreapp3.1\editor-de-texto.csproj.AssemblyReference.cache
+D:\DS\editor-de-texto\editor-de-texto\obj\Debug\netcoreapp3.1\editor_de_texto.Form1.resources
+D:\DS\editor-de-texto\editor-de-texto\obj\Debug\netcoreapp3.1\editor-de-texto.csproj.GenerateResource.cache
+D:\DS\editor-de-texto\editor-de-texto\obj\Debug\netcoreapp3.1\editor-de-texto.GeneratedMSBuildEditorConfig.editorconfig
+D:\DS\editor-de-texto\editor-de-texto\obj\Debug\netcoreapp3.1\editor-de-texto.AssemblyInfoInputs.cache
+D:\DS\editor-de-texto\editor-de-texto\obj\Debug\netcoreapp3.1\editor-de-texto.AssemblyInfo.cs
+D:\DS\editor-de-texto\editor-de-texto\obj\Debug\netcoreapp3.1\editor-de-texto.csproj.CoreCompileInputs.cache
+D:\DS\editor-de-texto\editor-de-texto\obj\Debug\netcoreapp3.1\editor-de-texto.dll
+D:\DS\editor-de-texto\editor-de-texto\obj\Debug\netcoreapp3.1\editor-de-texto.pdb
+D:\DS\editor-de-texto\editor-de-texto\obj\Debug\netcoreapp3.1\editor-de-texto.genruntimeconfig.cache
+F:\2. TRABALHOS_2C\desenvolvimento_de_sistemas\trabalhos_visual_studio\repositorio_projetos_visualstudio\editor-de-texto\editor-de-texto\obj\Debug\netcoreapp3.1\editor-de-texto.csproj.AssemblyReference.cache
+F:\2. TRABALHOS_2C\desenvolvimento_de_sistemas\trabalhos_visual_studio\repositorio_projetos_visualstudio\editor-de-texto\editor-de-texto\obj\Debug\netcoreapp3.1\editor_de_texto.Form1.resources
+F:\2. TRABALHOS_2C\desenvolvimento_de_sistemas\trabalhos_visual_studio\repositorio_projetos_visualstudio\editor-de-texto\editor-de-texto\obj\Debug\netcoreapp3.1\editor-de-texto.csproj.GenerateResource.cache
+F:\2. TRABALHOS_2C\desenvolvimento_de_sistemas\trabalhos_visual_studio\repositorio_projetos_visualstudio\editor-de-texto\editor-de-texto\obj\Debug\netcoreapp3.1\editor-de-texto.GeneratedMSBuildEditorConfig.editorconfig
+F:\2. TRABALHOS_2C\desenvolvimento_de_sistemas\trabalhos_visual_studio\repositorio_projetos_visualstudio\editor-de-texto\editor-de-texto\obj\Debug\netcoreapp3.1\editor-de-texto.AssemblyInfoInputs.cache
+F:\2. TRABALHOS_2C\desenvolvimento_de_sistemas\trabalhos_visual_studio\repositorio_projetos_visualstudio\editor-de-texto\editor-de-texto\obj\Debug\netcoreapp3.1\editor-de-texto.AssemblyInfo.cs
+F:\2. TRABALHOS_2C\desenvolvimento_de_sistemas\trabalhos_visual_studio\repositorio_projetos_visualstudio\editor-de-texto\editor-de-texto\obj\Debug\netcoreapp3.1\editor-de-texto.csproj.CoreCompileInputs.cache
+F:\2. TRABALHOS_2C\desenvolvimento_de_sistemas\trabalhos_visual_studio\repositorio_projetos_visualstudio\editor-de-texto\editor-de-texto\obj\Debug\netcoreapp3.1\editor-de-texto.dll
+F:\2. TRABALHOS_2C\desenvolvimento_de_sistemas\trabalhos_visual_studio\repositorio_projetos_visualstudio\editor-de-texto\editor-de-texto\obj\Debug\netcoreapp3.1\editor-de-texto.pdb
+F:\2. TRABALHOS_2C\desenvolvimento_de_sistemas\trabalhos_visual_studio\repositorio_projetos_visualstudio\editor-de-texto\editor-de-texto\bin\Debug\netcoreapp3.1\editor-de-texto.exe
+F:\2. TRABALHOS_2C\desenvolvimento_de_sistemas\trabalhos_visual_studio\repositorio_projetos_visualstudio\editor-de-texto\editor-de-texto\bin\Debug\netcoreapp3.1\editor-de-texto.deps.json
+F:\2. TRABALHOS_2C\desenvolvimento_de_sistemas\trabalhos_visual_studio\repositorio_projetos_visualstudio\editor-de-texto\editor-de-texto\bin\Debug\netcoreapp3.1\editor-de-texto.runtimeconfig.json
+F:\2. TRABALHOS_2C\desenvolvimento_de_sistemas\trabalhos_visual_studio\repositorio_projetos_visualstudio\editor-de-texto\editor-de-texto\bin\Debug\netcoreapp3.1\editor-de-texto.runtimeconfig.dev.json
+F:\2. TRABALHOS_2C\desenvolvimento_de_sistemas\trabalhos_visual_studio\repositorio_projetos_visualstudio\editor-de-texto\editor-de-texto\bin\Debug\netcoreapp3.1\editor-de-texto.dll
+F:\2. TRABALHOS_2C\desenvolvimento_de_sistemas\trabalhos_visual_studio\repositorio_projetos_visualstudio\editor-de-texto\editor-de-texto\bin\Debug\netcoreapp3.1\editor-de-texto.pdb
+F:\2. TRABALHOS_2C\desenvolvimento_de_sistemas\trabalhos_visual_studio\repositorio_projetos_visualstudio\editor-de-texto\editor-de-texto\obj\Debug\netcoreapp3.1\editor-de-texto.genruntimeconfig.cache

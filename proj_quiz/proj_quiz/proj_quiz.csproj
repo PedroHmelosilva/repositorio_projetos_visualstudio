@@ -1,0 +1,246 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{3845C38E-A1D7-419C-B4A8-2E76E5F70014}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <RootNamespace>proj_quiz</RootNamespace>
+    <AssemblyName>proj_quiz</AssemblyName>
+    <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
+    <Deterministic>true</Deterministic>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Net.Http" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="classesGlobais.cs" />
+    <Compile Include="Form1.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form1.Designer.cs">
+      <DependentUpon>Form1.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmConcluiu.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmConcluiu.Designer.cs">
+      <DependentUpon>frmConcluiu.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmQ1.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmQ1.Designer.cs">
+      <DependentUpon>frmQ1.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmQ10.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmQ10.Designer.cs">
+      <DependentUpon>frmQ10.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmQ11.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmQ11.Designer.cs">
+      <DependentUpon>frmQ11.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmQ12.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmQ12.Designer.cs">
+      <DependentUpon>frmQ12.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmQ13.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmQ13.Designer.cs">
+      <DependentUpon>frmQ13.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmQ14.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmQ14.Designer.cs">
+      <DependentUpon>frmQ14.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmQ15.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmQ15.Designer.cs">
+      <DependentUpon>frmQ15.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmQ2.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmQ2.Designer.cs">
+      <DependentUpon>frmQ2.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmQ3.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmQ3.Designer.cs">
+      <DependentUpon>frmQ3.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmQ4.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmQ4.Designer.cs">
+      <DependentUpon>frmQ4.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmQ5.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmQ5.Designer.cs">
+      <DependentUpon>frmQ5.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmQ6.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmQ6.Designer.cs">
+      <DependentUpon>frmQ6.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmQ7.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmQ7.Designer.cs">
+      <DependentUpon>frmQ7.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmQ8.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmQ8.Designer.cs">
+      <DependentUpon>frmQ8.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmQ9.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmQ9.Designer.cs">
+      <DependentUpon>frmQ9.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmSobre.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmSobre.Designer.cs">
+      <DependentUpon>frmSobre.cs</DependentUpon>
+    </Compile>
+    <Compile Include="infoQuiz.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="infoQuiz.Designer.cs">
+      <DependentUpon>infoQuiz.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <EmbeddedResource Include="Form1.resx">
+      <DependentUpon>Form1.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmConcluiu.resx">
+      <DependentUpon>frmConcluiu.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmQ1.resx">
+      <DependentUpon>frmQ1.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmQ10.resx">
+      <DependentUpon>frmQ10.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmQ11.resx">
+      <DependentUpon>frmQ11.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmQ12.resx">
+      <DependentUpon>frmQ12.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmQ13.resx">
+      <DependentUpon>frmQ13.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmQ14.resx">
+      <DependentUpon>frmQ14.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmQ15.resx">
+      <DependentUpon>frmQ15.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmQ2.resx">
+      <DependentUpon>frmQ2.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmQ3.resx">
+      <DependentUpon>frmQ3.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmQ4.resx">
+      <DependentUpon>frmQ4.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmQ5.resx">
+      <DependentUpon>frmQ5.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmQ6.resx">
+      <DependentUpon>frmQ6.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmQ7.resx">
+      <DependentUpon>frmQ7.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmQ8.resx">
+      <DependentUpon>frmQ8.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmQ9.resx">
+      <DependentUpon>frmQ9.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmSobre.resx">
+      <DependentUpon>frmSobre.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="infoQuiz.resx">
+      <DependentUpon>infoQuiz.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+</Project>

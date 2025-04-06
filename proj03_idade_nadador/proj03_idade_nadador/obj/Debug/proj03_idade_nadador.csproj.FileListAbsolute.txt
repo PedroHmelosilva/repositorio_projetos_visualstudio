@@ -1,0 +1,10 @@
+C:\Users\hmelo\OneDrive\Arquivos (Imagens, Livros, Músicas, Documentos)\Documentos\repositorio_projetos_visualstudio\proj03_idade_nadador\proj03_idade_nadador\bin\Debug\proj03_idade_nadador.exe.config
+C:\Users\hmelo\OneDrive\Arquivos (Imagens, Livros, Músicas, Documentos)\Documentos\repositorio_projetos_visualstudio\proj03_idade_nadador\proj03_idade_nadador\bin\Debug\proj03_idade_nadador.exe
+C:\Users\hmelo\OneDrive\Arquivos (Imagens, Livros, Músicas, Documentos)\Documentos\repositorio_projetos_visualstudio\proj03_idade_nadador\proj03_idade_nadador\bin\Debug\proj03_idade_nadador.pdb
+C:\Users\hmelo\OneDrive\Arquivos (Imagens, Livros, Músicas, Documentos)\Documentos\repositorio_projetos_visualstudio\proj03_idade_nadador\proj03_idade_nadador\obj\Debug\proj03_idade_nadador.csproj.AssemblyReference.cache
+C:\Users\hmelo\OneDrive\Arquivos (Imagens, Livros, Músicas, Documentos)\Documentos\repositorio_projetos_visualstudio\proj03_idade_nadador\proj03_idade_nadador\obj\Debug\proj03_idade_nadador.Form1.resources
+C:\Users\hmelo\OneDrive\Arquivos (Imagens, Livros, Músicas, Documentos)\Documentos\repositorio_projetos_visualstudio\proj03_idade_nadador\proj03_idade_nadador\obj\Debug\proj03_idade_nadador.Properties.Resources.resources
+C:\Users\hmelo\OneDrive\Arquivos (Imagens, Livros, Músicas, Documentos)\Documentos\repositorio_projetos_visualstudio\proj03_idade_nadador\proj03_idade_nadador\obj\Debug\proj03_idade_nadador.csproj.GenerateResource.cache
+C:\Users\hmelo\OneDrive\Arquivos (Imagens, Livros, Músicas, Documentos)\Documentos\repositorio_projetos_visualstudio\proj03_idade_nadador\proj03_idade_nadador\obj\Debug\proj03_idade_nadador.csproj.CoreCompileInputs.cache
+C:\Users\hmelo\OneDrive\Arquivos (Imagens, Livros, Músicas, Documentos)\Documentos\repositorio_projetos_visualstudio\proj03_idade_nadador\proj03_idade_nadador\obj\Debug\proj03_idade_nadador.exe
+C:\Users\hmelo\OneDrive\Arquivos (Imagens, Livros, Músicas, Documentos)\Documentos\repositorio_projetos_visualstudio\proj03_idade_nadador\proj03_idade_nadador\obj\Debug\proj03_idade_nadador.pdb

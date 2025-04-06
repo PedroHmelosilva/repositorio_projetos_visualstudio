@@ -1,0 +1,10 @@
+C:\Users\hmelo\OneDrive\Arquivos (Imagens, Livros, Músicas, Documentos)\Documentos\repositorio_projetos_visualstudio\proj01_numero_divisivel\proj01_numero_divisivel\bin\Debug\proj01_numero_divisivel.exe.config
+C:\Users\hmelo\OneDrive\Arquivos (Imagens, Livros, Músicas, Documentos)\Documentos\repositorio_projetos_visualstudio\proj01_numero_divisivel\proj01_numero_divisivel\bin\Debug\proj01_numero_divisivel.exe
+C:\Users\hmelo\OneDrive\Arquivos (Imagens, Livros, Músicas, Documentos)\Documentos\repositorio_projetos_visualstudio\proj01_numero_divisivel\proj01_numero_divisivel\bin\Debug\proj01_numero_divisivel.pdb
+C:\Users\hmelo\OneDrive\Arquivos (Imagens, Livros, Músicas, Documentos)\Documentos\repositorio_projetos_visualstudio\proj01_numero_divisivel\proj01_numero_divisivel\obj\Debug\proj01_numero_divisivel.csproj.AssemblyReference.cache
+C:\Users\hmelo\OneDrive\Arquivos (Imagens, Livros, Músicas, Documentos)\Documentos\repositorio_projetos_visualstudio\proj01_numero_divisivel\proj01_numero_divisivel\obj\Debug\proj01_numero_divisivel.Form1.resources
+C:\Users\hmelo\OneDrive\Arquivos (Imagens, Livros, Músicas, Documentos)\Documentos\repositorio_projetos_visualstudio\proj01_numero_divisivel\proj01_numero_divisivel\obj\Debug\proj01_numero_divisivel.Properties.Resources.resources
+C:\Users\hmelo\OneDrive\Arquivos (Imagens, Livros, Músicas, Documentos)\Documentos\repositorio_projetos_visualstudio\proj01_numero_divisivel\proj01_numero_divisivel\obj\Debug\proj01_numero_divisivel.csproj.GenerateResource.cache
+C:\Users\hmelo\OneDrive\Arquivos (Imagens, Livros, Músicas, Documentos)\Documentos\repositorio_projetos_visualstudio\proj01_numero_divisivel\proj01_numero_divisivel\obj\Debug\proj01_numero_divisivel.csproj.CoreCompileInputs.cache
+C:\Users\hmelo\OneDrive\Arquivos (Imagens, Livros, Músicas, Documentos)\Documentos\repositorio_projetos_visualstudio\proj01_numero_divisivel\proj01_numero_divisivel\obj\Debug\proj01_numero_divisivel.exe
+C:\Users\hmelo\OneDrive\Arquivos (Imagens, Livros, Músicas, Documentos)\Documentos\repositorio_projetos_visualstudio\proj01_numero_divisivel\proj01_numero_divisivel\obj\Debug\proj01_numero_divisivel.pdb

@@ -1,0 +1,10 @@
+C:\Users\hmelo\OneDrive\Arquivos (Imagens, Livros, Músicas, Documentos)\Documentos\repositorio_projetos_visualstudio\proj02_calcular_imc\proj02_calcular_imc\bin\Debug\proj02_calcular_imc.exe.config
+C:\Users\hmelo\OneDrive\Arquivos (Imagens, Livros, Músicas, Documentos)\Documentos\repositorio_projetos_visualstudio\proj02_calcular_imc\proj02_calcular_imc\bin\Debug\proj02_calcular_imc.exe
+C:\Users\hmelo\OneDrive\Arquivos (Imagens, Livros, Músicas, Documentos)\Documentos\repositorio_projetos_visualstudio\proj02_calcular_imc\proj02_calcular_imc\bin\Debug\proj02_calcular_imc.pdb
+C:\Users\hmelo\OneDrive\Arquivos (Imagens, Livros, Músicas, Documentos)\Documentos\repositorio_projetos_visualstudio\proj02_calcular_imc\proj02_calcular_imc\obj\Debug\proj02_calcular_imc.csproj.AssemblyReference.cache
+C:\Users\hmelo\OneDrive\Arquivos (Imagens, Livros, Músicas, Documentos)\Documentos\repositorio_projetos_visualstudio\proj02_calcular_imc\proj02_calcular_imc\obj\Debug\proj02_calcular_imc.Form1.resources
+C:\Users\hmelo\OneDrive\Arquivos (Imagens, Livros, Músicas, Documentos)\Documentos\repositorio_projetos_visualstudio\proj02_calcular_imc\proj02_calcular_imc\obj\Debug\proj02_calcular_imc.Properties.Resources.resources
+C:\Users\hmelo\OneDrive\Arquivos (Imagens, Livros, Músicas, Documentos)\Documentos\repositorio_projetos_visualstudio\proj02_calcular_imc\proj02_calcular_imc\obj\Debug\proj02_calcular_imc.csproj.GenerateResource.cache
+C:\Users\hmelo\OneDrive\Arquivos (Imagens, Livros, Músicas, Documentos)\Documentos\repositorio_projetos_visualstudio\proj02_calcular_imc\proj02_calcular_imc\obj\Debug\proj02_calcular_imc.csproj.CoreCompileInputs.cache
+C:\Users\hmelo\OneDrive\Arquivos (Imagens, Livros, Músicas, Documentos)\Documentos\repositorio_projetos_visualstudio\proj02_calcular_imc\proj02_calcular_imc\obj\Debug\proj02_calcular_imc.exe
+C:\Users\hmelo\OneDrive\Arquivos (Imagens, Livros, Músicas, Documentos)\Documentos\repositorio_projetos_visualstudio\proj02_calcular_imc\proj02_calcular_imc\obj\Debug\proj02_calcular_imc.pdb
